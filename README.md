@@ -32,3 +32,5 @@
 1. Design Patterns: Elements of Reusable Object-Oriented Software by The "Gang of Four"
 2. [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Andy Osmani
 3. *Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming* by Dustin Diaz
+
+http://loredanacirstea.github.io/es6-design-patterns/#abstract-factory

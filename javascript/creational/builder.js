@@ -22,13 +22,7 @@ class Tournament {
   }
 }
 
-let Westeros = {
-  Event,
-  Prize,
-  Attendee,
-  Tournament
-}
-
+// Concrete Factory
 class LannisterTournamentBuilder {
   build () {
     let tournament = new Tournament()
@@ -43,6 +37,7 @@ class LannisterTournamentBuilder {
   }
 }
 
+// Concrete Factory
 class BaratheonTournamentBuilder {
   build () {
     let tournament = new Tournament()
@@ -56,6 +51,7 @@ class BaratheonTournamentBuilder {
   }
 }
 
+// Director
 class TournamentBuilder {
   build (builder) {
     return builder.build()
