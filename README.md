@@ -9,6 +9,20 @@
 5. Frameworks are not design patterns, but they do implement design patterns.
 6. The opposite of design pattern is anti-pattern.
 
+## Others
+- design patterns is not to instruct you how to build software, but rather to give guidance on ways in which to solve common problems
+- design patterns provide hints on how to solve common problem
+
+## Three Major Groups
+
+- __Creational__: outline a number of ways in which objects could be created and their lifecycles managed
+- __Behavioral__: describe how objects interact with each other
+- __Structural__: describes a variety of different ways to add functionality to existing objects
+
+## Anti-Patterns
+
+- __The Blob__, a.k.a __god object__, is a pattern in which one object grows to take on the responsibility for vast swaths of the application logic.
+- __Lava Flow__ is a pattern that emerges as project ages and nobody knows if code is still in used.
 
 
 #### Design Patterns Resources
